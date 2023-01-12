@@ -59,9 +59,54 @@
 	url = https://github.com/lilses/lib_product
 	branch = master
 [submodule "migration/libs/db"]
+	branch = master
 	path = migration/libs/db
 	url = https://github.com/lilses/db
-[submodule "db"]
+[submodule "market/packages/address"]
+	path = market/packages/address
+	url = https://github.com/lilses/address
 	branch = master
-[submodule "dsb"]
+[submodule "market/packages/api"]
+	path = market/packages/api
+	url = https://github.com/lilses/api
+	branch = master
+[submodule "market/packages/auth_id"]
+	path = market/packages/auth_id
+	url = https://github.com/lilses/auth_id
+	branch = master
+[submodule "market/packages/cart"]
+	path = market/packages/cart
+	url = https://github.com/lilses/cart
+	branch = master
+[submodule "market/packages/chat"]
+	path = market/packages/chat
+	url = https://github.com/lilses/chat
+	branch = master
+[submodule "market/packages/encrypted_auth_id"]
+	path = market/packages/encrypted_auth_id
+	url = https://github.com/lilses/encrypted_auth_id
+	branch = master
+[submodule "market/packages/fcm"]
+	path = market/packages/fcm
+	url = https://github.com/lilses/fcm
+	branch = master
+[submodule "market/packages/notification"]
+	path = market/packages/notification
+	url = https://github.com/lilses/notification
+	branch = master
+[submodule "market/packages/product"]
+	path = market/packages/product
+	url = https://github.com/lilses/product
+	branch = master
+[submodule "market/packages/transferwise"]
+	path = market/packages/transferwise
+	url = https://github.com/lilses/transferwise
+	branch = master
+[submodule "market/packages/wallet"]
+	path = market/packages/wallet
+	url = https://github.com/lilses/wallet
+	branch = master
+[submodule "market/packages/gen_api"]
+	path = market/packages/gen_api
+	url = https://github.com/lilses/gen_api
 	branch = master
