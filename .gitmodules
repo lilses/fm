@@ -2,3 +2,66 @@
 	path = lib_typesense
 	url = https://github.com/lilses/lib_typesense
 	branch = master
+[submodule "lib_stripe"]
+	path = lib_stripe
+	url = https://github.com/lilses/lib_stripe
+	branch = master
+[submodule "macros_make_app"]
+	path = macros_make_app
+	url = https://github.com/lilses/macros_make_app
+	branch = master
+[submodule "lib_transferwise"]
+	path = lib_transferwise
+	url = https://github.com/lilses/lib_transferwise
+	branch = master
+[submodule "my_state"]
+	path = my_state
+	url = https://github.com/lilses/my_state
+	branch = master
+[submodule "macros_make_error"]
+	path = macros_make_error
+	url = https://github.com/lilses/macros_make_error
+	branch = master
+[submodule "macros_make_scope"]
+	path = macros_make_scope
+	url = https://github.com/lilses/macros_make_scope
+	branch = master
+[submodule "macros_make_model"]
+	path = macros_make_model
+	url = https://github.com/lilses/macros_make_model
+	branch = master
+[submodule "lib_wallet"]
+	path = lib_wallet
+	url = https://github.com/lilses/lib_wallet
+	branch = master
+[submodule "lib_notification"]
+	path = lib_notification
+	url = https://github.com/lilses/lib_notification
+	branch = master
+[submodule "lib_fcm"]
+	path = lib_fcm
+	url = https://github.com/lilses/lib_fcm
+	branch = master
+[submodule "lib_chat"]
+	path = lib_chat
+	url = https://github.com/lilses/lib_chat
+	branch = master
+[submodule "lib_auth_id"]
+	path = lib_auth_id
+	url = https://github.com/lilses/lib_auth_id
+	branch = master
+[submodule "macros_make_api_doc"]
+	path = macros_make_api_doc
+	url = https://github.com/lilses/macros_make_api_doc
+	branch = master
+[submodule "lib_product"]
+	path = lib_product
+	url = https://github.com/lilses/lib_product
+	branch = master
+[submodule "migration/libs/db"]
+	path = migration/libs/db
+	url = https://github.com/lilses/db
+[submodule "db"]
+	branch = master
+[submodule "dsb"]
+	branch = master
