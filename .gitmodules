@@ -1,3 +1,4 @@
 [submodule "lib_typesense"]
 	path = lib_typesense
 	url = https://github.com/lilses/lib_typesense
+	branch = master
